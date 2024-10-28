@@ -1,6 +1,5 @@
-# CasoPractico-Tableau
-
-# Caso práctico del Análisis de ventas en la tienda X
+## CasoPractico-Tableau
+## Visualización de datos personales de los empleados de la compañía SRL.
 
 ## Contexto
 El presente repositorio contiene el caso práctico del cuarto módulo titulado: Business Intelligence y Tableau, del diplomado en Analítica y ciencia de datos.
