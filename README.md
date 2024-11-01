@@ -14,3 +14,6 @@ Este conjunto de datos contiene información detallada incluyen información det
 ## Interpretación de los gráficos
 1. Ventas totales por género
    - 
+
+
+https://public.tableau.com/app/profile/andrea.lizardo6117/vizzes
